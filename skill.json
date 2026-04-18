@@ -1,0 +1,23 @@
+{
+  "name": "note-writer",
+  "displayName": "Note Writer",
+  "description": "note.com/Zenn writing intelligence. 14 article types, 25 title formulas, 19 opening patterns, 13 structure templates, 25 expression techniques, 5 author styles, 15 ending patterns, 15 publishing strategies. BM25 search engine with 131 entries across 8 domains.",
+  "version": "1.0.0",
+  "author": "shushuitie2017",
+  "license": "MIT",
+  "repository": "https://github.com/shushuitie2017/note-skill",
+  "keywords": [
+    "note.com",
+    "zenn",
+    "writing",
+    "japanese",
+    "article",
+    "essay",
+    "ai-skill",
+    "bm25"
+  ],
+  "platforms": [
+    "claude"
+  ],
+  "install": "git clone https://github.com/shushuitie2017/note-skill.git .claude/skills/note-writer"
+}

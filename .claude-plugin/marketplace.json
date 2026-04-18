@@ -1,0 +1,25 @@
+{
+  "name": "note-skill",
+  "id": "note-skill",
+  "owner": {
+    "name": "shushuitie2017"
+  },
+  "metadata": {
+    "description": "note.com/Zenn writing intelligence skill with 131 entries across 8 domains",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "note-writer",
+      "source": "./",
+      "description": "Professional writing intelligence for note.com and Zenn. Includes searchable databases of article types, title formulas, opening patterns, structure templates, expression techniques, author styles, ending patterns, and publishing strategies.",
+      "version": "1.0.0",
+      "author": {
+        "name": "shushuitie2017"
+      },
+      "keywords": ["note.com", "zenn", "writing", "japanese", "article", "essay"],
+      "category": "writing",
+      "strict": false
+    }
+  ]
+}

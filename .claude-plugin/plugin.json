@@ -1,0 +1,11 @@
+{
+  "name": "note-writer",
+  "description": "note.com/Zenn ライティングインテリジェンス。14記事タイプ、25タイトル公式、19書き出しパターン、13構成テンプレート、25表現技法、5作家スタイル、15結びパターン、15公開戦略。BM25検索エンジン付き。",
+  "version": "1.0.0",
+  "author": {
+    "name": "shushuitie2017"
+  },
+  "license": "MIT",
+  "keywords": ["note.com", "zenn", "writing", "japanese", "article", "essay"],
+  "skills": ["./.claude/skills/note-writer"]
+}
